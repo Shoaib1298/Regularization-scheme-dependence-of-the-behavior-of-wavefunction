@@ -1,0 +1,28 @@
+## RESULTS
+
+1)A graph of wavefunction and exp(−γ ∗ εbρ) as a function of ρ is depected in graph(A)
+
+• The binding energy found : 2.23 MeV.
+• The found point of convergence : 98.413
+
+2)The graph (B) depicts the relationship between convergence point and the regularization parameter λ.The
+general trend is that the convergence point decreases with the increase in λ with fluctuations we speculate. The
+following checks and analysis were done to find if there was numerical reason for these fluctuations.
+
+1. Varying the numerical parameters grid size b, and equating it to b=100,b=120,b=150 but the nature of the
+graph doesn’t change.
+
+2. Varying the precision parameter ε2 and result only finds convergence points more precisely, but the nature of
+the graph doesn’t change.
+
+3. suspecting that Numerov’s method produced pathological results for specific rgularization parameters, the
+graphs for parameters where fuclution is observed were visually analysed and after the analysis it was conclude
+that were no irregularities in the wavefunction produced.
+
+## Conclusion
+
+The analysis of regularization scheme dependence on the behavior of the wavefunction is done, and the results
+convey that the wavefunction for this regularization form tends to its universal form at a very large value of ρ,
+counterintuitive to the assumption that for a zero-range potential, the wavefunction tends to the universal form close
+to the end of range of the potential. The convergance point for each regularization is found. Although the source
+of fluctuations was not found, a general that the convergence point decreases with the increase in λ is establisheds.
