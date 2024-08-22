@@ -1,4 +1,4 @@
-# Regularization-scheme-dependence-of-the-behavior-of-wavefunction
+# Regularization scheme dependence of the behavior of wavefunction
 
 Regularization scheme dependence of the behavior of wavefunction in the presence of a delta potential is
 explored in this project by regularizing the delta function to the form δ = v_0*exp(−λ*ρ**2). The project analyzes
