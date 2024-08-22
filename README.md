@@ -1,7 +1,7 @@
 # Regularization scheme dependence of the behavior of wavefunction
 
 Regularization scheme dependence of the behavior of wavefunction in the presence of a delta potential is
-explored in this project by regularizing the delta function to the form **δ = v_0*exp(−λ*ρ**2). The project analyzes
+explored in this project by regularizing the delta function to the form  ** δ = v_0*exp(−λ*ρ**2)**. The project analyzes
 a non-relativistic system involving two identical particles interacting with a delta potential. The energy eigen
 function of this system, written in spherical coordinates , consists of a radial part R(r) that satisfies a differential
 equation subject to a delta potential. Numerical simulations for this system were performed using the Numerov
